@@ -49,7 +49,7 @@ Estas tablas permiten observar claramente:
 Dentro del archivo Excel se generaron textos que responden automáticamente a
 preguntas como:
 - *¿Cuál es la categoría con mayor facturación?*
-- *¿Cuál es la subcategoría con mayor/mayor ganancia o pérdida?*
+- *¿Cuál es la subcategoría con mayor ganancia o pérdida?*
 - *¿Cuál es la región con mayor volumen de unidades vendidas?*
 
 Estos textos están diseñados para actualizarse si cambian los datos base.
