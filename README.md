@@ -86,8 +86,7 @@ Para visualizar correctamente el análisis necesitas:
 
 Este proyecto está diseñado como **evidencia de habilidades de análisis de datos**,  
 incluyendo limpieza de datos, creación de métricas relevantes, automatización básica y  
-documentación clara — todo lo que un analista junior debería dominar.
-
+documentación clara.
 ---
 
 ## 📝 Autor
